@@ -1,0 +1,136 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu+Condensed);
+	body {
+		font-size: 13.5pt;
+		font-family: sans-serif;
+		background-color: #ededed;
+		font-family: 'Ubuntu Condensed', sans-serif;
+		letter-spacing: 1px;
+	}
+
+	h1,h2,h3,h4 {
+		color: #007897;
+		font-weight: normal;
+	}
+
+	h1,h2 {
+		text-transform: uppercase;
+	}
+
+	h2 {
+		font-size: 1.6em;
+		letter-spacing: 1px;
+		margin-bottom: 1em;
+	}
+
+	h3,h4 {
+		color: #12ba1e;
+		margin-bottom: 0.5em;
+	}
+
+	h3 {
+		font-size: 1.2em;
+		margin-bottom: 0.8em;
+	}
+
+	h4 {
+		font-size: 1em;
+	}
+
+	p, ul {
+		margin-bottom: 1.25em;
+	}
+
+	p {
+		margin: 0 10px 0px 40px;
+		line-height: 1.8em;
+	}
+	
+	a {
+		color: #5d93a2;
+		text-decoration: none;
+	}
+	
+	
+	.button {
+		display: inline-block;
+		padding: 15px 25px 15px 25px;
+		background-color: #007b9d;
+		background-image: -moz-linear-gradient(top, #008dad, #007b9d);
+		background-image: -webkit-linear-gradient(top, #008dad, #007b9d);
+		background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#008dad), to(#007b9d));
+		background-image: -ms-linear-gradient(top, #008dad, #007b9d);
+		background-image: -o-linear-gradient(top, #008dad, #007b9d);
+		background-image: linear-gradient(top, #008dad, #007b9d);
+		border-radius: 10px;
+		text-transform: lowercase;
+		text-decoration: none;
+		color: #fff;
+		font-size: 1.2em;
+		letter-spacing: -1px;
+		border: solid 1px #006e8b;
+		box-shadow: inset 0px 0px 0px 1px #18a8c8;
+	}
+
+	.button:hover {
+		background-color: #118eb1;
+		background-image: -moz-linear-gradient(top, #1b9fbe, #118eb1);
+		background-image: -webkit-linear-gradient(top, #1b9fbe, #118eb1);
+		background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1b9fbe), to(#118eb1));
+		background-image: -ms-linear-gradient(top, #1b9fbe, #118eb1);
+		background-image: -o-linear-gradient(top, #1b9fbe, #118eb1);
+		background-image: linear-gradient(top, #1b9fbe, #118eb1);
+		box-shadow: inset 0px 0px 0px 1px #3ecceb;
+	}
+	
+	#wrapper {
+			background-color: #ededed;
+			padding: 0 10px 0 10px;
+		}
+
+		#header {
+			position: relative;
+			margin: 2.5% auto 2.5% auto;
+			border-radius: 10px;
+			border: solid 1px #006e8b;
+			background-color: #ededed;
+			height: 86px;
+		}
+
+			#header h1 {
+				color: #dc7700;
+				font-size: 2.4em;
+				letter-spacing: 1px;
+				line-height: 86px;
+			}
+			
+		#form {
+			padding: 10px 10px 10px 10px;
+			position: relative;
+			border: solid 1px #006e8b;
+			background-color: #ededed;
+			
+		}
+		
+		#nav {
+			padding: 10px 10px 10px 10px;
+			margin: 0px 10px 0px 10px;
+			position: relative;
+			border: solid 1px #006e8b;
+			background-color: #ededed;
+			width: 200px;
+		}
+		
+		nav a:hover {
+    	color: #12ba1e;
+    	}
+    	
+    	#msg {
+    	padding: 10px 10px 10px 10px;
+    	}
+		
+	
+	
+	
+	
+	
+	
