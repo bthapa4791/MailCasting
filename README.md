@@ -1,4 +1,4 @@
-This project is done for college project. 
+This project was done for college project. 
 Similar type of project can be found on internet.
 What I have done is implemented the project in Model-View-Controller design pattern for better understanding.
 
